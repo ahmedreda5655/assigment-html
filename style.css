@@ -1,0 +1,99 @@
+/* smooth scroll */
+html{
+    scroll-behavior: smooth;
+}
+
+/* navbar */
+nav{
+    background-color: grey;
+    border-radius: 10px;
+}
+
+/* navbar */
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+}
+
+/* link */
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/* me */
+.me{
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+#me{
+    border-radius: 10px;
+    border: 2px solid black;
+    width: fit-content;
+}
+/* h1  */
+h1{
+    text-align: center;
+}
+
+/* home */
+#home{
+    text-align: center;
+}
+
+/* h2 */
+h2{
+    text-align: center;
+}
+
+
+/* pragraph-about */
+
+.pragraph-about{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+/* paragraph */
+p{
+    padding: 20px;
+}
+
+/* image */
+img{
+    border-radius: 10px;
+    width: 40%;
+}
+
+/* video */
+video{
+margin: auto;
+    border-radius: 10px;
+    width: 70%;
+}
+
+/* iframe */
+iframe{
+    width: 50%;
+    height: 70%;
+    border-radius: 10px;
+    border: 2px solid grey;
+}
+
+/* form */
+form{
+    text-align: center;
+}
+textarea{
+    resize: none;
+}
+
+/* table */
+table{
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
